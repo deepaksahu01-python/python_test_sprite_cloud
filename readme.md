@@ -11,4 +11,3 @@ Install python in the system
 
 4. Run the api tests by:
     PYTHONPATH:<PATH TO python_test_sprite_cloud>/sprite_cloud python -m behave ./reqres_api/
-
