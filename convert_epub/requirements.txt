@@ -1,0 +1,4 @@
+deep-translator
+ebooklib
+pymupdf
+# fpdf2
